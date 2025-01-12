@@ -1,3 +1,3 @@
-﻿## [1.0.0] - 2025-01-12
-### Initial Commit
-- Initial file structure setup
+﻿## [1.0.0] - yyyy-mm-dd
+### Initial commit
+- Created a new Unity Package
