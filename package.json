@@ -9,6 +9,7 @@
     "changelogUrl": "https://cunomi.com/changelog.html",
     "licensesUrl": "https://cunomi.com/licensing.html",
     "dependencies": {
+        "com.[company-name].[package-name]": "1.0.0"
     },
     "keywords": [
         "keyword1",
