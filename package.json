@@ -1,0 +1,21 @@
+{
+    "name": "com.cunomi.core",
+    "version": "1.0.0",
+    "displayName": "Cunomi Core",
+    "description": "This package implements the core features for a game build by cunomi",
+    "unity": "6000.0",
+    "unityRelease": "31f1",
+    "documentationUrl": "https://cunomi.com/documentation/core",
+    "changelogUrl": "https://cunomi.com/changelog.html",
+    "licensesUrl": "https://cunomi.com/licensing.html",
+    "dependencies": {
+    },
+    "keywords": [
+        "cunomi",
+        "core"
+    ],
+    "author": {
+        "name": "DotNomi",
+        "url": "https://www.cunomi.com"
+    }
+}
